@@ -12,7 +12,7 @@ Cryptocurrency Finance Price - App per il monitoraggio dei prezzi nel mercato de
 
 ## Preview
 
-<a href="https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
+<a href="https://webfre.github.io/crypto-finance-price/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
