@@ -41,6 +41,7 @@ git clone https://github.com/Webfre/crypto-finance-price.git
 Start the project:
 
 ```sh
+npm install
 cd crypto-finance-price
 npm start or yarn start
 ```
